@@ -1,8 +1,8 @@
 [
 	{
 		"name": "Reich Inder",
-		"leaderName": "naul",
-		"adjective": ["human"],
+		"leaderName": "Naul",
+		"adjective": ["Human"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
